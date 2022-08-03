@@ -1,6 +1,6 @@
 # esx_base
 
-<h2> ⛏️ esx_base </h2>
+<h2> ⛏️ ESX Base </h2>
 
 - Cette resource est une resource de base pour ESX qui comporte 4 resources bien distinctes : esx_licenses, esx_datastore, esx_addoninventory, esx_addonaccount. </br>
 
